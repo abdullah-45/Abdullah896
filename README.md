@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning javascript
 - 📫 reach me via abdullah.pgmr@gmail.com
 
 <!---
